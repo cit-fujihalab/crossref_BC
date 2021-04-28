@@ -14,6 +14,7 @@ Module list
 
 ## Usage　[実行方法]
 I will explain the needs in the execution method and startup order by Ubunutu(Linux).
+ 
 Ubunutuによる実行方法と起動順番にニードの説明をする。
 
  - ## $ python3 owner_server1.py
