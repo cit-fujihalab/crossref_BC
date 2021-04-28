@@ -13,5 +13,8 @@ Module list
 
 
 ## Usage
+I will explain the needs in the execution method and startup order by Ubunutu.
+ - $ python
+
 
 Add after updating...
