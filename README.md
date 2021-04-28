@@ -4,8 +4,8 @@ The program is in the process of being created
 
 ## Dependency・Setup
 Ubuntu 20
--Python3.8
-  -module list
+ - Python3.8
+ - module list
 
 
 ## Setup
