@@ -2,8 +2,8 @@
 
 The program is in the process of being created
 
-## Dependency/Setup
-Ubuntu 20
+## Dependency/Setup [使い方と開発環境]
+Ubuntu 20.04.2 LTS
  - Python3.8
 
 Module list
