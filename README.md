@@ -1,2 +1,1 @@
-# crossref_BC
-作成中
+# Experimental implementation of the cross-referencing method forscalable public blockchain
