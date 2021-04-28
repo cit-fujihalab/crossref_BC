@@ -7,9 +7,9 @@ Ubuntu 20.04.2 LTS
  - Python3.8
 
 Module list
- - pip3 install websocket_server
- - pip3 install websocket_client
- - pip3 install pycryptodome
+ - $ pip3 install websocket_server
+ - $ pip3 install websocket_client
+ - $ pip3 install pycryptodome
 
 
 ## Usage
