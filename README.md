@@ -28,7 +28,7 @@ Ubunutuによる実行方法と起動順番にニードの説明をする。
  - owner_server3.pyを任意にの数に増やすことで履歴交差法に関わるLayer-0のノードの数（ドメインの数）を増やすことができる。
 
 
- - $ python3 owner_server2.py
+ - ## $ python3 owner_server2.py
  - Layer-0の統率ノード
  - Layer-0で統率を取り履歴交差法を開始する依頼を各ドメインに出す.
 
