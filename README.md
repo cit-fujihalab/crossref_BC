@@ -16,7 +16,7 @@ Module list
 
 ## Usage　[実行方法]
 I will explain the needs in the execution method and startup order by Ubunutu(Linux).
- 
+--------
 Ubunutuによる実行方法と起動順番にニードの説明をする。
 
  - ## $ python3 owner_server1.py
@@ -47,5 +47,5 @@ Ubunutuによる実行方法と起動順番にニードの説明をする。
  - Layer-0の統率ノード
  - Layer-0で統率を取り履歴交差法を開始する依頼を各ドメインに出す.
 
-
+---------
 Add after updating...
